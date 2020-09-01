@@ -29,17 +29,17 @@
 
 | Items de configuración | Regla de nombrado | Ubicación física | Tipo de item |
 | ------ | ------ | ------ | ------ |
-| Guia de ejercicios | ISW_Enunciados TP_evaluables_<YYYY>_<cuatrimestre>.pdf | <url_repo>Practico/Guia%20de%20trabajos%20practicos | Practico |
-| Guia de ejercicios resueltos	| ISW_Guia_de_Trabajos_Practicos Resueltos_<YYYY>_<cuatrimestre>.pdf |	<url_repo>/Practico/Trabajos%20practicos%20resueltos | Practico |
-| Plan de gestion de configuracion |	ISW_Plan_Gestion_Configuracion.<extension> | <url_repo> | Información General |
-| Material Bibliografico | <nombre_material>.pdf | <url_repo>/Teorico/Material%20Bibliografico | Teórico |
-| Resoluciones a trabajos practicos | ISW_TP_<numero_tp>.<extension> | <url_repo>/Practico/Trabajos%20practicos%20resueltos/Trabajo%20practico%20<numero_tp> |	Practico |
-| Modalidad Academica | ISW_Modalidad_<YYYY>_<cuatrimestre>.pdf | <url_repo>/Catedra | Información general |
-| Protocolos para rendir | ISW_Protocolo_<instancia_rendida>_<cuatrimestre>_<YYYY>.pdf | <url_repo>/Catedra | Información General |
-| Bibliografia recomendada | ISW_Bibliografia_Recomendada_<cuatrimestre>_<YYYY>.pdf | <url_repo>/Catedra | Información General |
-| Presentaciones clases | ISW_<tema>.pdf | <url_repo>/Teorico/Presentaciones | Teórico |
-| Material para parciales |	ISW_Template_Parcial_<nro_parcial>.<extension>	| <url_repo>/Catedra/Material%20para%20parciales | Información General |
-| Lineamientos para trabajos conceptuales | ISW_Lineamientos para trabajos teóricos_<YYYY>_<cuatrimestre>.pdf | <url_repo>Practico/Guia%20de%20trabajos%20practicos | Practico |
+| Guia de ejercicios | ISW_Enunciados TP_evaluables_< YYYY >_< cuatrimestre >.pdf | < url_repo >Practico/Guia%20de%20trabajos%20practicos | Practico |
+| Guia de ejercicios resueltos	| ISW_Guia_de_Trabajos_Practicos Resueltos_< YYYY >_< cuatrimestre >.pdf |	< url_repo >/Practico/Trabajos%20practicos%20resueltos | Practico |
+| Plan de gestion de configuracion |	ISW_Plan_Gestion_Configuracion.< extension > | < url_repo > | Información General |
+| Material Bibliografico | < nombre_material >.pdf | < url_repo >/Teorico/Material%20Bibliografico | Teórico |
+| Resoluciones a trabajos practicos | ISW_TP_< numero_tp >.< extension > | < url_repo >/Practico/Trabajos%20practicos%20resueltos/Trabajo%20practico%20< numero_tp > |	Practico |
+| Modalidad Academica | ISW_Modalidad_< YYYY >_< cuatrimestre >.pdf | < url_repo >/Catedra | Información general |
+| Protocolos para rendir | ISW_Protocolo_< instancia_rendida >_< cuatrimestre >_< YYYY >.pdf | < url_repo >/Catedra | Información General |
+| Bibliografia recomendada | ISW_Bibliografia_Recomendada_< cuatrimestre >_< YYYY >.pdf | < url_repo >/Catedra | Información General |
+| Presentaciones clases | ISW_< tema >.pdf | < url_repo >/Teorico/Presentaciones | Teórico |
+| Material para parciales |	ISW_Template_Parcial_< nro_parcial >.< extension >	| < url_repo >/Catedra/Material%20para%20parciales | Información General |
+| Lineamientos para trabajos conceptuales | ISW_Lineamientos para trabajos teóricos_< YYYY >_< cuatrimestre >.pdf | < url_repo >Practico/Guia%20de%20trabajos%20practicos | Practico |
 
 &nbsp;
 
