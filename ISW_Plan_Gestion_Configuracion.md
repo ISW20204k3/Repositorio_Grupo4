@@ -39,6 +39,7 @@
 | Bibliografia recomendada | ISW_Bibliografia_Recomendada_<cuatrimestre>_<YYYY>.pdf | <url_repo>/Catedra | Información General |
 | Presentaciones clases | ISW_<tema>.pdf | <url_repo>/Teorico/Presentaciones | Teórico |
 | Material para parciales |	ISW_Template_Parcial_<nro_parcial>.<extension>	| <url_repo>/Catedra/Material%20para%20parciales | Información General |
+| Lineamientos para trabajos conceptuales | ISW_Lineamientos para trabajos teóricos_<YYYY>_<cuatrimestre>.pdf | <url_repo>Practico/Guia%20de%20trabajos%20practicos | Practico |
 
 &nbsp;
 
