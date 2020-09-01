@@ -44,12 +44,12 @@
 
 |Sigla|	Significado|
 | ------ | ------ |
-| <YYYY> | Año del documento.|
-| <cuatrimestre> |Cuatrimestre para el cual aplica el documento.|
-| <extensión> |	Extensión del documento, dependiendo la herramienta que se haya utilizado para realizarlo. (doc, docx, rtf, md, etc).|
-| <tema> | Tema tratado en la presentación / clase.|
-| <nombre_material> | Nombre del libro / paper / tema que trata el material compartido por los profesores.|
-| <instancia_rendida> | Instancia para la cual aplica el protocolo descrito en el documento.|
-| <url_repo>	|https://github.com/ISW20204k3/Repositorio_Grupo4_4k3_2020/tree/master|
+| < YYYY > | Año del documento.|
+| < cuatrimestre > |Cuatrimestre para el cual aplica el documento.|
+| < extensión > |	Extensión del documento, dependiendo la herramienta que se haya utilizado para realizarlo. (doc, docx, rtf, md, etc).|
+| < tema > | Tema tratado en la presentación / clase.|
+| < nombre_material > | Nombre del libro / paper / tema que trata el material compartido por los profesores.|
+| < instancia_rendida > | Instancia para la cual aplica el protocolo descrito en el documento.|
+| < url_repo >	|https://github.com/ISW20204k3/Repositorio_Grupo4_4k3_2020/tree/master|
 
 
