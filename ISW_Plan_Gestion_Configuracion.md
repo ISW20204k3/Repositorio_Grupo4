@@ -53,4 +53,5 @@
 | < instancia_rendida > | Instancia para la cual aplica el protocolo descrito en el documento.|
 | < url_repo >	|https://github.com/ISW20204k3/Repositorio_Grupo4_4k3_2020/tree/master|
 
-
+#Linea Base
+La linea base se va a cambiar despues de cada resolucion a un TP y su posterior correccion
