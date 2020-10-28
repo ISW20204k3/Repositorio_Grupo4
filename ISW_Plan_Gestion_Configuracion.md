@@ -18,6 +18,12 @@
                 * Trabajo Practico 2
                 * Trabajo Practico 3
                 * Trabajo Practico 4
+                * Trabajo Practico 6
+                  * DeliverEatFE
+                * Trabajo Practico 7
+                * Trabajo Practico 8
+                * Trabajo Practico 9
+                * Trabajo Practico 10
             * Trabajos conceptuales
                 * Trabajo conceptual 1
                 * Trabajo conceptual 2
@@ -34,6 +40,7 @@
 | Plan de gestion de configuracion |	ISW_Plan_Gestion_Configuracion.< extension > | < url_repo > | Información General |
 | Material Bibliografico | < nombre_material >.pdf | < url_repo >/Teorico/Material%20Bibliografico | Teórico |
 | Resoluciones a trabajos practicos | ISW_TP_< numero_tp >.< extension > | < url_repo >/Practico/Trabajos%20practicos%20resueltos/Trabajo%20practico%20< numero_tp > |	Practico |
+| Resoluciones a trabajos conceptuales | ISW_Trabajo_Conceptual_< numero_tp >.< extension > | < url_repo >/Practico/Trabajos %20conceptuales/Trabajo%20conceptual%20< numero_tp > |	Practico |
 | Modalidad Academica | ISW_Modalidad_< YYYY >_< cuatrimestre >.pdf | < url_repo >/Catedra | Información general |
 | Protocolos para rendir | ISW_Protocolo_< instancia_rendida >_< cuatrimestre >_< YYYY >.pdf | < url_repo >/Catedra | Información General |
 | Bibliografia recomendada | ISW_Bibliografia_Recomendada_< cuatrimestre >_< YYYY >.pdf | < url_repo >/Catedra | Información General |
